@@ -37,7 +37,7 @@
 
 ![image](https://github.com/kimdevspace/Building-Crack-Detector-csu-capstone-/assets/158041455/1367c6fe-7bb8-44d8-9d7d-f6cbded5763e)
 
-- 텐서플로우 근사치 검출
+- 텐서플로우 시각화
 
 
 ![스크린샷 2023-06-05 134004](https://github.com/kimdevspace/Building-Crack-Detector-csu-capstone-/assets/158041455/3382a8ed-1835-466b-be5d-b18d24c21b9a)
